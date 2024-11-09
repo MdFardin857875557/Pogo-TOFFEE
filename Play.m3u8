@@ -1,7 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731175731973.ts
-#EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731175725903.ts
-#EXT-X-STREAM-INF:BANDWIDTH=440000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731175720390.ts
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_yay_576/sony_yay_576.m3u8?bitrate=1000000&channel=sony_yay_576&gp_id
