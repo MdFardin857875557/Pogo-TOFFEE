@@ -1,13 +1,1 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182853879.ts
-#EXT-X-STREAM-INF:BANDWIDTH=440000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182847790.ts
-#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
-https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182841729.ts
-#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
-https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182835942.ts
-#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
-https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182829610.ts
-#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
-https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182829610.ts
+#EXTM3U #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:4417 #EXT-X-TARGETDURATION:14 #EXTINF:11.360,  #EXTINF:4.640, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182853879.ts #EXTINF:4.480, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182847790.ts #EXTINF:6.120, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182841729.ts #EXTINF:4.800, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182835942.ts #EXTINF:4.960, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182829610.ts #EXTINF:9.720, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182818043.ts #EXTINF:4.720, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731183608757.ts #EXTINF:13.680, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731183602975.ts #EXTINF:11.880, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731183597444.ts #EXTINF:4.640, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731183591125.ts #EXTINF:6.320, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731183585314.ts #EXTINF:4.560, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731183578970.ts #EXTINF:4.880, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731183573462.ts #EXTINF:5.560, https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731183567412.ts
