@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
+https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182853879.ts
+#EXT-X-STREAM-INF:BANDWIDTH=440000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
+https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182847790.ts
+#EXT-X-STREAM-INF:BANDWIDTH=640000,RESOLUTION=640x360,CODECS="avc1.42e00a,mp4a.40.2"
+https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182841729.ts
+#EXT-X-STREAM-INF:BANDWIDTH=64000,CODECS="mp4a.40.5"
+https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182835942.ts
+#EXT-X-STREAM-INF:BANDWIDTH=64000,CODECS="mp4a.40.5
+https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182829610.ts
+#EXT-X-STREAM-INF:BANDWIDTH=64000,CODECS="mp4a.40.5
+https://bldcmprod-cdn.toffeelive.com/live/sony_yay_576/1731182818043.ts
